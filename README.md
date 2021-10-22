@@ -9,7 +9,14 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 </p>
 ## Tech Stack
 :hammer:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp; 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 <!--
 **shane1595042264/shane1595042264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
