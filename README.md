@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi there 
 This is Shane Li's Github. I publish my own projects and some practice projects here to keep track.
-# Github Statistics
+# :bar_chart: Github Statistics
 <p align="center">
 <a href="https://github.com/shane1595042264">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shane1595042264&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -8,8 +8,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 </a>
 </p>
 
-# Tech Stack
-:hammer:
+# :hammer: Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
