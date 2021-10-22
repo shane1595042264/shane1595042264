@@ -7,7 +7,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shane1595042264&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-## Tech Stack
+# Tech Stack
 :hammer:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
