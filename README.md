@@ -16,7 +16,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp; 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![VSC](https://img.shields.io/badge/-Visual-Studio-Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![VSC](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
 <!--
 **shane1595042264/shane1595042264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
