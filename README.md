@@ -18,7 +18,6 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![VSC](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" />
 <div>
 Hi
 </div>
