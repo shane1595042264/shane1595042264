@@ -20,7 +20,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 
 <div>
 Hi
-  ![My](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobyOVjHr6b-RJu_UP7CeIoFHsfl3lyEopYA&usqp=CAU)
+  ![image](https://user-images.githubusercontent.com/61711097/141886119-fe39fa11-a571-4f71-a0af-76b86a7c56fd.png)
 </div>
 
 <!-- Actual text -->
