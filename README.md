@@ -26,18 +26,21 @@ Hi
 </div>
 
 <!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+# :camera: Social Media
+Twitter: [![Twitter][1.2]][1]
+LinkedIn: [![LinkedIn][2.2]][2].
+Facebook: [![Facebook][3.2]][3]
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-
+[3.2]: http://i.imgur.com/fep1WsG.png
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/ShaneLi80437270
 [2]: https://www.linkedin.com/in/juntao-li-689aa0211/
+[3]: https://www.facebook.com/juntao.li.779
 
 <!--
 **shane1595042264/shane1595042264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
