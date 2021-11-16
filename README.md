@@ -27,9 +27,9 @@ Hi
 
 <!-- Actual text -->
 # :camera: Social Media
-Twitter: [![Twitter][1.2]][1]
-LinkedIn: [![LinkedIn][2.2]][2].
-Facebook: [![Facebook][3.2]][3]
+Twitter: [![Twitter][1.2]][1] \n
+LinkedIn: [![LinkedIn][2.2]][2] \n
+Facebook: [![Facebook][3.2]][3] \n
 
 <!-- Icons -->
 
