@@ -21,7 +21,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 <div>
 Hi
   
-  ![image](https://user-images.githubusercontent.com/61711097/141886119-fe39fa11-a571-4f71-a0af-76b86a7c56fd.png)
+<img width="112" alt="guai qiao" src="https://user-images.githubusercontent.com/61711097/141886448-87f77297-dadf-4c05-98d8-1f18444ab242.png">
   
 </div>
 
