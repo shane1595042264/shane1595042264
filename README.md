@@ -12,12 +12,24 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 # :hammer: Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Pygame](https://img.shields.io/badge/-Pygame-05122A?style=flat&logo=pygame)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp; 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp; 
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![VSC](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Sanity.io](https://img.shields.io/badge/-Sanity.io-05122A?style=flat&logo=sanity)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apache-spark)&nbsp;
+![Flink](https://img.shields.io/badge/-Flink-05122A?style=flat&logo=apache-flink)&nbsp;
+![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia)&nbsp;
+![GPU Programming](https://img.shields.io/badge/-GPU_Programming-05122A?style=flat&logo=graphicsgale)&nbsp;
+
 
 <div>
   
