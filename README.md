@@ -1,4 +1,5 @@
 ### 👋 Hi there 
+<img width="112" alt="guai qiao" src="https://user-images.githubusercontent.com/61711097/141886448-87f77297-dadf-4c05-98d8-1f18444ab242.png">
 This is Shane Li's Github. I publish my own projects and some practice projects here to keep track.
 # :bar_chart: Github Statistics
 <p align="center">
@@ -19,9 +20,8 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 ![VSC](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 
 <div>
-Hi
   
-<img width="112" alt="guai qiao" src="https://user-images.githubusercontent.com/61711097/141886448-87f77297-dadf-4c05-98d8-1f18444ab242.png">
+
   
 </div>
 
