@@ -41,7 +41,7 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 
 <p align="center">
   <em>I'm a breakdancer and run a breakdance club! 🕺💃</em><br>
-  <img src="https://imgur.com/a/Jis9nA3" alt="Breakdance" width="200px">
+  <img src="https://github.com/shane1595042264/shane1595042264/blob/main/airchair.jpg?raw=true" alt="Breakdance" width="400px">
 </p>
 
 <!-- Actual text -->
