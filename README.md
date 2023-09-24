@@ -1,5 +1,8 @@
 ### 👋 Hi there 
-<img width="112" alt="guai qiao" src="https://user-images.githubusercontent.com/61711097/141886448-87f77297-dadf-4c05-98d8-1f18444ab242.png">
+<div align="center">
+  <img width="112" alt="guai qiao" src="https://user-images.githubusercontent.com/61711097/141886448-87f77297-dadf-4c05-98d8-1f18444ab242.png">
+</div>
+
 This is Shane Li's Github. I publish my own projects and some practice projects here to keep track.
 # :bar_chart: Github Statistics
 <p align="center">
@@ -32,30 +35,48 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 
 
 <div>
-  
-
-  
 </div>
 
+# ⚡ Fun Fact
+
+<p align="center">
+  <em>I'm a breakdancer and run a breakdance club! 🕺💃</em><br>
+  <img src="https://imgur.com/a/Jis9nA3" alt="Breakdance" width="200px">
+</p>
+
 <!-- Actual text -->
-# :camera: Social Media
+# :camera: Connect with me:
 
-(Turn on the light to see them)
-
-Twitter: [![Twitter][1.2]][1]  
-LinkedIn: [![LinkedIn][2.2]][2]  
-Facebook: [![Facebook][3.2]][3]
+<p align="center">
+  <a href="https://twitter.com/ShaneLi80437270" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/juntao-li-689aa0211/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.facebook.com/juntao.li.779" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.instagram.com/douvleplus/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="40">
+  </a>
+</p>
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-[3.2]: http://i.imgur.com/fep1WsG.png
+[1.2]: https://img.icons8.com/color/48/000000/twitter.png 
+[2.2]: https://img.icons8.com/color/48/000000/linkedin.png 
+[3.2]: https://img.icons8.com/color/48/000000/facebook.png
+[4.2]: https://img.icons8.com/color/48/000000/instagram.png
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/ShaneLi80437270
 [2]: https://www.linkedin.com/in/juntao-li-689aa0211/
 [3]: https://www.facebook.com/juntao.li.779
+[4]: https://www.instagram.com/douvleplus/
 
 <!--
 **shane1595042264/shane1595042264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
