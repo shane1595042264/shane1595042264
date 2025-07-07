@@ -37,13 +37,6 @@ This is Shane Li's Github. I publish my own projects and some practice projects 
 <div>
 </div>
 
-# ⚡ Fun Fact
-
-<p align="center">
-  <em>I'm a breakdancer and run a breakdance club! 🕺💃</em><br>
-  <img src="https://github.com/shane1595042264/shane1595042264/blob/main/airchair.jpg?raw=true" alt="Breakdance" width="400px">
-</p>
-
 <!-- Actual text -->
 # :camera: Connect with me:
 
